@@ -1,7 +1,7 @@
 const periodContribution = 800;
 const periodsPerYear = 24;
 const interestRatePerYear = 1.11;
-const yearsToInvest = 10;
+const yearsToInvest = 32;
 
 
 function calculateInterestPerYear() {
